@@ -9,7 +9,7 @@ def move(a1,a2):
 
 
 if __name__=="__main__":
-    os.chdir('/home/levi.moraes/')
+    # os.chdir('/home/levi.moraes/')
     a1 = 'True'
     while a1 == 'True':
         record('test.mp4')
